@@ -36,6 +36,11 @@ The goal of this project is to create a simple and interactive Power BI dashboar
   - Total Bookings
   - Cancellation Rate
 
+<br>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/801c9c18-2493-427a-8246-038e6940221a" width="800" />
+</div>
+
 ---
 
 ## 🌟 Key Features
