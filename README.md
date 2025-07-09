@@ -7,7 +7,7 @@ The goal of this project is to create a simple and interactive Power BI dashboar
 ---
 
 ## 🔗 Live Demo
-📍 [Hospitality Management Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiNzE3MDA0NGEtNzU5ZC00MGNhLTg5MTgtNGMyOWVjYjhjZTU0IiwidCI6ImU3YWUzZWIzLTQwN2QtNDRhNy1hNmY3LWYzOWY1YTExZDMzNyIsImMiOjEwfQ%3D%3D&pageName=c51d9b4700aad672b4a9) Live Power BI Dashboard
+📍 [Hospitality Management Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiMzg5OTExY2UtNjM1YS00NDI2LTg0MWMtN2MzMDViYjhlN2M5IiwidCI6ImU3YWUzZWIzLTQwN2QtNDRhNy1hNmY3LWYzOWY1YTExZDMzNyIsImMiOjEwfQ%3D%3D&pageName=c51d9b4700aad672b4a9) Live Power BI Dashboard
 
 ---
 
